@@ -69,7 +69,7 @@ div.gallery{
   -webkit-flex:3;
   -ms-flex:3;
   flex:3;
-  padding: 50px;
+  padding: 20px;
 }
 div.gallery-item {
   margin: 25px;

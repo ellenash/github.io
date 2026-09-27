@@ -82,6 +82,6 @@ div.gallery-item {
     flex-direction:column;
   }
   div.gallery-item {
-    width: 350px;
+    width:auto;
 }
 

@@ -73,7 +73,7 @@ div.gallery{
 }
 div.gallery-item {
   margin: 25px;
-  width:auto;
+  width:850px;
 }
 
 @media (max-width: 600px) {
@@ -81,4 +81,7 @@ div.gallery-item {
     -webkit-flex-direction:column;
     flex-direction:column;
   }
+  div.gallery-item {
+    width:auto;
 }
+

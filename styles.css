@@ -73,7 +73,7 @@ div.gallery{
 }
 div.gallery-item {
   margin: 25px;
-  width:850px;
+  width:750px;
 }
 
 @media (max-width: 600px) {
